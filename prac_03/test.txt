@@ -1,0 +1,6 @@
+# This is a comment line
+Hello there
+# Another comment
+This is normal text
+# Python is fun
+Last line
